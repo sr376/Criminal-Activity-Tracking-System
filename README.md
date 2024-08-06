@@ -70,14 +70,8 @@ Being built on top of Node.js, it is fairly easy to set-up the environment. Foll
     npm start
     ```
 
-- The desktop app has two modes of operation: **Offline** and **Online**. By default the app function in **Online** mode. To make it work in **Offline** mode, use the menu button provided on top of UI and select Offline mode.
-<br><br>
-<p align="center">
-    <img src="ss.png" width="80%">
-    </p>
-    <br><br>
 
-##  ✍️ &nbsp; Current Progress
+##  ✍️ &nbsp; Training and Testing
 We tried and tested various architectures for this project. A brief summary and stats for each is given below:
 1. **Customised CNN Model**: The customised CNN model with optimised parameters performed well on the training and sufficiently good in the test dataset. The architecture is currently being used by the website and test.ipynb file.
 
