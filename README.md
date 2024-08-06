@@ -127,23 +127,6 @@ We tried and tested various architectures for this project. A brief summary and 
     </p>
     <br>
 
-### ⚙️ &nbsp; Ultimate Objective
-The model uses the technique of Multiple Object Detection with Localization tracking the movement of people and then categorizing it into violent or non-violent behavior. Our proposed solution will ensure Public Safety and security without any human toil with an instant alert to the concerned authorities. Through ***Crowd Monitoring and Behavioral Analysis*** our solution aims to evoke the sense of security in men and women. The constant rise of criminal activities, their unexpectedness, and scope of harm that can be inflicted can be exponentially reduced through our proposed system. 
-
-*Link to current protoytpe* : [Click Here](http://ec2-18-206-46-76.compute-1.amazonaws.com:8000/)
 
 
-## Link to Desktop Apps
-| Platform&nbsp;&nbsp;&nbsp;    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Link &nbsp;&nbsp;&nbsp;&nbsp;|
-| ----------- | ---- |
-| Windows (.exe) |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link](https://github.com/AvishrantsSh/Xplore21/releases/download/v1.1.1/xplore-Setup-1.1.1.exe)|
-| Linux (.AppImage) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link](https://github.com/AvishrantsSh/Xplore21/releases/download/v1.1.1/xplore-1.1.1.AppImage) |
-| Mac (.dmg) |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Link](https://github.com/AvishrantsSh/Xplore21/releases/download/v1.1.1/xplore-1.1.1.dmg) |
 
-<br>
-
-## Custom Build
-If you want to create the desktop app for a different platform or a different extension like **.deb**, **.rpm**, use the following command from parent folder
-```sh
-electron-forge make
-``` 
